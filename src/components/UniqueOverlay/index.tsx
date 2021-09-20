@@ -13,7 +13,7 @@ const UniqueOverlay: React.FC = () => {
   return (
     <Container>
       <Header>
-        <Logo />
+        <h1>CarModels</h1>
         <Burger />
       </Header>
 
